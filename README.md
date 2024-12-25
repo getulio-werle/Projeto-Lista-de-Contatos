@@ -11,7 +11,7 @@ Aplicação web feita como parte do curso "Desenvolvimento Web Compacto e Comple
 - CSS3;
 - Bootstrap5;
 - PHP8;
-- PDO (PHP Data Objects);
+- Biblioteca PDO (PHP Data Objects);
 - MySQL.
 
 ![image](https://github.com/getulio-werle/Projeto-Lista-de-Contatos/assets/116128557/4e1c2351-efca-4dff-9fd1-a8ea699dd99a)
